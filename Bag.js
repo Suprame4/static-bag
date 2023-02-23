@@ -5,6 +5,7 @@ class Bag {
         } 
         this.weight = weight
     }
+    //test
 }
 
 module.exports = Bag
